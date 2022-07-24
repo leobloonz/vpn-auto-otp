@@ -1,6 +1,6 @@
 # vpn-auto-otp
 
-add this lines to .zshrc
+add these lines to .zshrc
 
 usage: vpnlab [ENTER] -> will ask OTP code
 
